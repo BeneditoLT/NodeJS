@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr/app.js",
+  "scripts": {
+    "start": "node scr/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
